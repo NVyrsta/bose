@@ -1,13 +1,9 @@
-# Miami landing page
+# BOSE
 
-In this task, you will learn how to implement a landing page. To do that:
+This project is a landing page designed using **HTML**, **SCSS**, and **JavaScript**. The page is optimized for **multi-device** viewing and is **cross-browser** compatible, ensuring that it functions correctly across all major browsers.
 
-- choose a landing page design from the list below;
-  - [BOSE landing](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
-  - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-  - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-- watch the lesson videos and implement your page blocks similarly to the videos;
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- when you finish the first block of your page deploy it and create a Pull Request with a [DEMO LINK](https://<your_account>.github.io/layout_miami/) 
-- after each next block do the same (add, commit and push the changes, and deploy the updated demo;
-- check yourself using the [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md) when finished;
+The landing page has been designed with a user-friendly approach in mind, with a clean and simple layout that is easy to navigate. The page features a responsive design, adapting to the screen size of the device being used to view it.
+
+The landing page contains several sections, including a hero section, a features section, a pricing section, and a call-to-action section. Each section is designed to provide visitors with a clear understanding of the product or service being offered.
+
+Overall, this landing page is a great example of a well-designed, user-friendly, and effective marketing tool for any product or service.
